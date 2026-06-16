@@ -9,31 +9,47 @@ const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
   const navigate = useNavigate();
-  const [token, setToken] = useState(null);
+
+  const [token, setToken] = useState(
+    localStorage.getItem("token") || null
+  );
   const [stacks, setStacks] = useState([]);
   const [input, setInput] = useState("");
 
-  const fetchStacks = async () => {
-    try {
-      const { data } = await axios.get("/api/stack/all");
-      data.success
-        ? setStacks(data.stacks)
-        : toast.error(data.message);
-    } catch (error) {
-      toast.error(error?.response?.data?.message || error.message);
-    }
-  };
-
+  // Fetch all stacks
   useEffect(() => {
-    fetchStacks();
+    const loadStacks = async () => {
+      try {
+        const { data } = await axios.get("/api/stack/all");
 
-    const savedToken = localStorage.getItem("token");
+        if (data.success) {
+          setStacks(data.stacks);
+        } else {
+          toast.error(data.message);
+        }
+      } catch (error) {
+        toast.error(
+          error?.response?.data?.message || error.message
+        );
+      }
+    };
 
-    if (savedToken) {
-      setToken(savedToken);
-      axios.defaults.headers.common["Authorization"] = `Bearer ${savedToken}`;
-    }
+    loadStacks();
   }, []);
+
+  // Set Authorization header whenever token changes
+  useEffect(() => {
+    if (token) {
+      axios.defaults.headers.common[
+        "Authorization"
+      ] = `Bearer ${token}`;
+
+      localStorage.setItem("token", token);
+    } else {
+      delete axios.defaults.headers.common["Authorization"];
+      localStorage.removeItem("token");
+    }
+  }, [token]);
 
   const value = {
     axios,
@@ -53,4 +69,6 @@ export const AppProvider = ({ children }) => {
   );
 };
 
-export const useAppContext = () => useContext(AppContext);
+export const useAppContext = () => {
+  return useContext(AppContext);
+};

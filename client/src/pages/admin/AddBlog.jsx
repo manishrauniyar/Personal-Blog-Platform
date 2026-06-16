@@ -69,7 +69,7 @@ const AddBlog = () => {
         <div className="relative mt-2 border rounded-xl overflow-hidden">
           <div ref={editorRef} className="bg-white min-h-50" />
           {loading && <div className="absolute inset-0 flex items-center justify-center bg-black/10"><div className="w-8 h-8 border-2 border-t-transparent border-cyan-500 rounded-full animate-spin"></div></div>}
-          <button type="button" onClick={generateContent} className="absolute bottom-2 right-2 text-xs bg-black text-white px-4 py-1.5 rounded-lg">AI</button>
+          <button type="button" onClick={generateContent} className="absolute bottom-2 right-2 text-xs bg-black text-white px-4 py-1.5 rounded-lg">Generate with AI</button>
         </div>
 
         <p className="mt-6 text-sm font-medium">Category</p>
