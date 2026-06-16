@@ -1,0 +1,26 @@
+<svg width="250" height="50" viewBox="0 0 206 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Purple Circle -->
+  <circle cx="21.5" cy="21.5" r="21.5" fill="#5044E5"/>
+
+  <!-- Edit Icon -->
+  <rect x="12" y="12" width="19" height="19" rx="4" stroke="white" stroke-width="2" fill="none"/>
+
+  <path
+    d="M20 24L27.5 16.5C28.1 15.9 29.1 15.9 29.7 16.5C30.3 17.1 30.3 18.1 29.7 18.7L22.2 26.2L19 27L20 24Z"
+    fill="white"
+  />
+
+  <!-- Text -->
+  <text
+    x="52"
+    y="29"
+    fill="black"
+    font-size="24"
+    font-weight="750"
+    font-family="Arial, sans-serif"
+  >
+    Personal blog
+  </text>
+
+</svg>

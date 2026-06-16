@@ -1,0 +1,1289 @@
+CorrelationId: d490d4d4-198d-43da-815d-a9a3c087188e
+UTC DateTime: 05/31/2026 05:05:17
+
+The following files/folders have not been downloaded
+0. major project/client/node_modules/react-router/dist/production/index-react-server-client-CSv-KZBk.d.ts
+1. major project/client/node_modules/react-router/dist/production/instrumentation-DlJ2QV7d.d.ts
+2. major project/client/node_modules/react-router/dist/production/register-Bsscfj79.d.ts
+3. major project/client/node_modules/react-router/dist/production/register-Df8okEea.d.mts
+4. major project/client/node_modules/react-router/LICENSE.md
+5. major project/client/node_modules/react-router/package.json
+6. major project/client/node_modules/react-router/README.md
+7. major project/client/node_modules/react-router-dom/LICENSE.md
+8. major project/client/node_modules/react-router-dom/dist/index.d.mts
+9. major project/client/node_modules/react-router-dom/dist/index.d.ts
+10. major project/client/node_modules/react-router-dom/dist/index.js
+11. major project/client/node_modules/react-router-dom/dist/index.mjs
+12. major project/client/node_modules/react-router-dom/package.json
+13. major project/client/node_modules/react-router-dom/README.md
+14. major project/client/node_modules/rolldown/LICENSE
+15. major project/client/node_modules/rolldown/bin/cli.mjs
+16. major project/client/node_modules/rolldown/dist/cli.d.mts
+17. major project/client/node_modules/rolldown/dist/shared/binding-ESkOU1xr.mjs
+18. major project/client/node_modules/rolldown/dist/shared/bindingify-input-options-zrVFGksD.mjs
+19. major project/client/node_modules/rolldown/dist/shared/binding-zH1vcmbM.d.mts
+20. major project/client/node_modules/rolldown/dist/shared/constructors-D0W3rNfA.d.mts
+21. major project/client/node_modules/rolldown/dist/shared/constructors-D6i2Tbyl.mjs
+22. major project/client/node_modules/rolldown/dist/shared/define-config-5HJ1b9vG.d.mts
+23. major project/client/node_modules/rolldown/dist/shared/define-config-DJOr6Iwt.mjs
+24. major project/client/node_modules/rolldown/dist/shared/error-BrnLyQ-g.mjs
+25. major project/client/node_modules/rolldown/dist/shared/get-log-filter-semyr3Lj.d.mts
+26. major project/client/node_modules/rolldown/dist/shared/load-config-xUNmcCRn.mjs
+27. major project/client/node_modules/rolldown/dist/shared/logging-C6h4g8dA.d.mts
+28. major project/client/node_modules/rolldown/dist/shared/logs-D80CXhvg.mjs
+29. major project/client/node_modules/rolldown/dist/shared/misc-DJYbNKZX.mjs
+30. major project/client/node_modules/rolldown/dist/shared/normalize-string-or-regex-dAjLOSbp.mjs
+31. major project/client/node_modules/rolldown/dist/shared/parse-_9Vwp6y3.mjs
+32. major project/client/node_modules/rolldown/dist/shared/prompt-U5ajztzG.mjs
+33. major project/client/node_modules/rolldown/dist/shared/resolve-tsconfig-DCdBlPeK.mjs
+34. major project/client/node_modules/rolldown/dist/shared/rolldown-build-D_ShytiL.mjs
+35. major project/client/node_modules/rolldown/dist/shared/rolldown-hwU2j9UL.mjs
+36. major project/client/node_modules/rolldown/dist/shared/transform-DgZ3paSD.d.mts
+37. major project/client/node_modules/rolldown/dist/shared/watch-Bak_bDNe.mjs
+38. major project/client/node_modules/rolldown/dist/cli.mjs
+39. major project/client/node_modules/rolldown/dist/config.d.mts
+40. major project/client/node_modules/rolldown/dist/config.mjs
+41. major project/client/node_modules/rolldown/dist/experimental-index.d.mts
+42. major project/client/node_modules/rolldown/dist/experimental-index.mjs
+43. major project/client/node_modules/rolldown/dist/experimental-runtime-types.d.ts
+44. major project/client/node_modules/rolldown/dist/filter-index.d.mts
+45. major project/client/node_modules/rolldown/dist/filter-index.mjs
+46. major project/client/node_modules/rolldown/dist/get-log-filter.d.mts
+47. major project/client/node_modules/rolldown/dist/get-log-filter.mjs
+48. major project/client/node_modules/rolldown/dist/index.d.mts
+49. major project/client/node_modules/rolldown/dist/index.mjs
+50. major project/client/node_modules/rolldown/dist/parallel-plugin.d.mts
+51. major project/client/node_modules/rolldown/dist/parallel-plugin.mjs
+52. major project/client/node_modules/rolldown/dist/parallel-plugin-worker.d.mts
+53. major project/client/node_modules/rolldown/dist/parallel-plugin-worker.mjs
+54. major project/client/node_modules/rolldown/dist/parse-ast-index.d.mts
+55. major project/client/node_modules/rolldown/dist/parse-ast-index.mjs
+56. major project/client/node_modules/rolldown/dist/plugins-index.d.mts
+57. major project/client/node_modules/rolldown/dist/plugins-index.mjs
+58. major project/client/node_modules/rolldown/dist/utils-index.d.mts
+59. major project/client/node_modules/rolldown/dist/utils-index.mjs
+60. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/LICENSE
+61. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/index.d.ts
+62. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/composable-filters.d.ts
+63. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/composable-filters.js
+64. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/filter-vite-plugins.d.ts
+65. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/filter-vite-plugins.js
+66. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/index.d.ts
+67. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/index.js
+68. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/simple-filters.d.ts
+69. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/filter/simple-filters.js
+70. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/index.js
+71. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/utils.d.ts
+72. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/dist/utils.js
+73. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/package.json
+74. major project/client/node_modules/rolldown/node_modules/@rolldown/pluginutils/README.md
+75. major project/client/node_modules/rolldown/package.json
+76. major project/client/node_modules/rolldown/README.md
+77. major project/client/node_modules/scheduler/index.js
+78. major project/client/node_modules/scheduler/cjs/scheduler.development.js
+79. major project/client/node_modules/scheduler/cjs/scheduler.native.development.js
+80. major project/client/node_modules/scheduler/cjs/scheduler.native.production.js
+81. major project/client/node_modules/scheduler/cjs/scheduler.production.js
+82. major project/client/node_modules/scheduler/cjs/scheduler-unstable_mock.development.js
+83. major project/client/node_modules/scheduler/cjs/scheduler-unstable_mock.production.js
+84. major project/client/node_modules/scheduler/cjs/scheduler-unstable_post_task.development.js
+85. major project/client/node_modules/scheduler/cjs/scheduler-unstable_post_task.production.js
+86. major project/client/node_modules/scheduler/index.native.js
+87. major project/client/node_modules/scheduler/LICENSE
+88. major project/client/node_modules/scheduler/package.json
+89. major project/client/node_modules/scheduler/README.md
+90. major project/client/node_modules/scheduler/unstable_mock.js
+91. major project/client/node_modules/scheduler/unstable_post_task.js
+92. major project/client/node_modules/semver/LICENSE
+93. major project/client/node_modules/semver/bin/semver.js
+94. major project/client/node_modules/semver/package.json
+95. major project/client/node_modules/semver/range.bnf
+96. major project/client/node_modules/semver/README.md
+97. major project/client/node_modules/semver/semver.js
+98. major project/client/node_modules/set-cookie-parser/LICENSE
+99. major project/client/node_modules/set-cookie-parser/lib/set-cookie.js
+100. major project/client/node_modules/set-cookie-parser/package.json
+101. major project/client/node_modules/set-cookie-parser/README.md
+102. major project/client/node_modules/shebang-command/index.js
+103. major project/client/node_modules/shebang-command/license
+104. major project/client/node_modules/shebang-command/package.json
+105. major project/client/node_modules/shebang-command/readme.md
+106. major project/client/node_modules/shebang-regex/index.d.ts
+107. major project/client/node_modules/shebang-regex/index.js
+108. major project/client/node_modules/shebang-regex/license
+109. major project/client/node_modules/shebang-regex/package.json
+110. major project/client/node_modules/shebang-regex/readme.md
+111. major project/client/node_modules/source-map-js/LICENSE
+112. major project/client/node_modules/source-map-js/lib/array-set.js
+113. major project/client/node_modules/source-map-js/lib/base64.js
+114. major project/client/node_modules/source-map-js/lib/base64-vlq.js
+115. major project/client/node_modules/source-map-js/lib/binary-search.js
+116. major project/client/node_modules/source-map-js/lib/mapping-list.js
+117. major project/client/node_modules/source-map-js/lib/quick-sort.js
+118. major project/client/node_modules/source-map-js/lib/source-map-consumer.d.ts
+119. major project/client/node_modules/source-map-js/lib/source-map-consumer.js
+120. major project/client/node_modules/source-map-js/lib/source-map-generator.d.ts
+121. major project/client/node_modules/source-map-js/lib/source-map-generator.js
+122. major project/client/node_modules/source-map-js/lib/source-node.d.ts
+123. major project/client/node_modules/source-map-js/lib/source-node.js
+124. major project/client/node_modules/source-map-js/lib/util.js
+125. major project/client/node_modules/source-map-js/package.json
+126. major project/client/node_modules/source-map-js/README.md
+127. major project/client/node_modules/source-map-js/source-map.d.ts
+128. major project/client/node_modules/source-map-js/source-map.js
+129. major project/client/node_modules/tailwindcss/index.css
+130. major project/client/node_modules/tailwindcss/dist/chunk-4VTQOGRC.mjs
+131. major project/client/node_modules/tailwindcss/dist/chunk-TDNFF6A4.mjs
+132. major project/client/node_modules/tailwindcss/dist/chunk-X4GG3EDV.mjs
+133. major project/client/node_modules/tailwindcss/dist/colors.d.mts
+134. major project/client/node_modules/tailwindcss/dist/colors.d.ts
+135. major project/client/node_modules/tailwindcss/dist/colors.js
+136. major project/client/node_modules/tailwindcss/dist/colors.mjs
+137. major project/client/node_modules/tailwindcss/dist/colors-C__qRT83.d.ts
+138. major project/client/node_modules/tailwindcss/dist/default-theme.d.mts
+139. major project/client/node_modules/tailwindcss/dist/default-theme.d.ts
+140. major project/client/node_modules/tailwindcss/dist/default-theme.js
+141. major project/client/node_modules/tailwindcss/dist/default-theme.mjs
+142. major project/client/node_modules/tailwindcss/dist/flatten-color-palette.d.mts
+143. major project/client/node_modules/tailwindcss/dist/flatten-color-palette.d.ts
+144. major project/client/node_modules/tailwindcss/dist/flatten-color-palette.js
+145. major project/client/node_modules/tailwindcss/dist/flatten-color-palette.mjs
+146. major project/client/node_modules/tailwindcss/dist/lib.d.mts
+147. major project/client/node_modules/tailwindcss/dist/lib.d.ts
+148. major project/client/node_modules/tailwindcss/dist/lib.js
+149. major project/client/node_modules/tailwindcss/dist/lib.mjs
+150. major project/client/node_modules/tailwindcss/dist/plugin.d.mts
+151. major project/client/node_modules/tailwindcss/dist/plugin.d.ts
+152. major project/client/node_modules/tailwindcss/dist/plugin.js
+153. major project/client/node_modules/tailwindcss/dist/plugin.mjs
+154. major project/client/node_modules/tailwindcss/dist/resolve-config-B4yBzhca.d.ts
+155. major project/client/node_modules/tailwindcss/dist/resolve-config-QUZ9b-Gn.d.mts
+156. major project/client/node_modules/tailwindcss/dist/types-CJYAW1ql.d.mts
+157. major project/client/node_modules/tailwindcss/LICENSE
+158. major project/client/node_modules/tailwindcss/package.json
+159. major project/client/node_modules/tailwindcss/preflight.css
+160. major project/client/node_modules/tailwindcss/README.md
+161. major project/client/node_modules/tailwindcss/theme.css
+162. major project/client/node_modules/tailwindcss/utilities.css
+163. major project/client/node_modules/tapable/LICENSE
+164. major project/client/node_modules/tapable/lib/AsyncParallelBailHook.js
+165. major project/client/node_modules/tapable/lib/AsyncParallelHook.js
+166. major project/client/node_modules/tapable/lib/AsyncSeriesBailHook.js
+167. major project/client/node_modules/tapable/lib/AsyncSeriesHook.js
+168. major project/client/node_modules/tapable/lib/AsyncSeriesLoopHook.js
+169. major project/client/node_modules/tapable/lib/AsyncSeriesWaterfallHook.js
+170. major project/client/node_modules/tapable/lib/Hook.js
+171. major project/client/node_modules/tapable/lib/HookCodeFactory.js
+172. major project/client/node_modules/tapable/lib/HookMap.js
+173. major project/client/node_modules/tapable/lib/index.js
+174. major project/client/node_modules/tapable/lib/MultiHook.js
+175. major project/client/node_modules/tapable/lib/SyncBailHook.js
+176. major project/client/node_modules/tapable/lib/SyncHook.js
+177. major project/client/node_modules/tapable/lib/SyncLoopHook.js
+178. major project/client/node_modules/tapable/lib/SyncWaterfallHook.js
+179. major project/client/node_modules/tapable/lib/util-browser.js
+180. major project/client/node_modules/tapable/package.json
+181. major project/client/node_modules/tapable/README.md
+182. major project/client/node_modules/tapable/tapable.d.ts
+183. major project/client/node_modules/tinyglobby/LICENSE
+184. major project/client/node_modules/tinyglobby/dist/index.cjs
+185. major project/client/node_modules/tinyglobby/dist/index.d.cts
+186. major project/client/node_modules/tinyglobby/dist/index.d.mts
+187. major project/client/node_modules/tinyglobby/dist/index.mjs
+188. major project/client/node_modules/tinyglobby/package.json
+189. major project/client/node_modules/tinyglobby/README.md
+190. major project/client/node_modules/tslib/CopyrightNotice.txt
+191. major project/client/node_modules/tslib/modules/index.d.ts
+192. major project/client/node_modules/tslib/modules/index.js
+193. major project/client/node_modules/tslib/modules/package.json
+194. major project/client/node_modules/tslib/LICENSE.txt
+195. major project/client/node_modules/tslib/package.json
+196. major project/client/node_modules/tslib/README.md
+197. major project/client/node_modules/tslib/SECURITY.md
+198. major project/client/node_modules/tslib/tslib.d.ts
+199. major project/client/node_modules/tslib/tslib.es6.html
+200. major project/client/node_modules/tslib/tslib.es6.js
+201. major project/client/node_modules/tslib/tslib.es6.mjs
+202. major project/client/node_modules/tslib/tslib.html
+203. major project/client/node_modules/tslib/tslib.js
+204. major project/client/node_modules/type-check/LICENSE
+205. major project/client/node_modules/type-check/lib/check.js
+206. major project/client/node_modules/type-check/lib/index.js
+207. major project/client/node_modules/type-check/lib/parse-type.js
+208. major project/client/node_modules/type-check/package.json
+209. major project/client/node_modules/type-check/README.md
+210. major project/client/node_modules/update-browserslist-db/check-npm-version.js
+211. major project/client/node_modules/update-browserslist-db/cli.js
+212. major project/client/node_modules/update-browserslist-db/index.d.ts
+213. major project/client/node_modules/update-browserslist-db/index.js
+214. major project/client/node_modules/update-browserslist-db/LICENSE
+215. major project/client/node_modules/update-browserslist-db/package.json
+216. major project/client/node_modules/update-browserslist-db/README.md
+217. major project/client/node_modules/update-browserslist-db/utils.js
+218. major project/client/node_modules/uri-js/LICENSE
+219. major project/client/node_modules/uri-js/dist/es5/uri.all.d.ts
+220. major project/client/node_modules/uri-js/dist/es5/uri.all.js
+221. major project/client/node_modules/uri-js/dist/es5/uri.all.js.map
+222. major project/client/node_modules/uri-js/dist/es5/uri.all.min.d.ts
+223. major project/client/node_modules/uri-js/dist/es5/uri.all.min.js
+224. major project/client/node_modules/uri-js/dist/es5/uri.all.min.js.map
+225. major project/client/node_modules/uri-js/dist/esnext/index.d.ts
+226. major project/client/node_modules/uri-js/dist/esnext/schemes/http.d.ts
+227. major project/client/node_modules/uri-js/dist/esnext/schemes/http.js
+228. major project/client/node_modules/uri-js/dist/esnext/schemes/http.js.map
+229. major project/client/node_modules/uri-js/dist/esnext/schemes/https.d.ts
+230. major project/client/node_modules/uri-js/dist/esnext/schemes/https.js
+231. major project/client/node_modules/uri-js/dist/esnext/schemes/https.js.map
+232. major project/client/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts
+233. major project/client/node_modules/uri-js/dist/esnext/schemes/mailto.js
+234. major project/client/node_modules/uri-js/dist/esnext/schemes/mailto.js.map
+235. major project/client/node_modules/uri-js/dist/esnext/schemes/urn.d.ts
+236. major project/client/node_modules/uri-js/dist/esnext/schemes/urn.js
+237. major project/client/node_modules/uri-js/dist/esnext/schemes/urn.js.map
+238. major project/client/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts
+239. major project/client/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js
+240. major project/client/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map
+241. major project/client/node_modules/uri-js/dist/esnext/schemes/ws.d.ts
+242. major project/client/node_modules/uri-js/dist/esnext/schemes/ws.js
+243. major project/client/node_modules/uri-js/dist/esnext/schemes/ws.js.map
+244. major project/client/node_modules/uri-js/dist/esnext/schemes/wss.d.ts
+245. major project/client/node_modules/uri-js/dist/esnext/schemes/wss.js
+246. major project/client/node_modules/uri-js/dist/esnext/schemes/wss.js.map
+247. major project/client/node_modules/uri-js/dist/esnext/index.js
+248. major project/client/node_modules/uri-js/dist/esnext/index.js.map
+249. major project/client/node_modules/uri-js/dist/esnext/regexps-iri.d.ts
+250. major project/client/node_modules/uri-js/dist/esnext/regexps-iri.js
+251. major project/client/node_modules/uri-js/dist/esnext/regexps-iri.js.map
+252. major project/client/node_modules/uri-js/dist/esnext/regexps-uri.d.ts
+253. major project/client/node_modules/uri-js/dist/esnext/regexps-uri.js
+254. major project/client/node_modules/uri-js/dist/esnext/regexps-uri.js.map
+255. major project/client/node_modules/uri-js/dist/esnext/uri.d.ts
+256. major project/client/node_modules/uri-js/dist/esnext/uri.js
+257. major project/client/node_modules/uri-js/dist/esnext/uri.js.map
+258. major project/client/node_modules/uri-js/dist/esnext/util.d.ts
+259. major project/client/node_modules/uri-js/dist/esnext/util.js
+260. major project/client/node_modules/uri-js/dist/esnext/util.js.map
+261. major project/client/node_modules/uri-js/package.json
+262. major project/client/node_modules/uri-js/README.md
+263. major project/client/node_modules/uri-js/yarn.lock
+264. major project/client/node_modules/vite/client.d.ts
+265. major project/client/node_modules/vite/bin/openChrome.js
+266. major project/client/node_modules/vite/bin/vite.js
+267. major project/client/node_modules/vite/dist/client/client.mjs
+268. major project/client/node_modules/vite/dist/client/env.mjs
+269. major project/client/node_modules/vite/dist/node/cli.js
+270. major project/client/node_modules/vite/dist/node/chunks/build.js
+271. major project/client/node_modules/vite/dist/node/chunks/chunk.js
+272. major project/client/node_modules/vite/dist/node/chunks/dist.js
+273. major project/client/node_modules/vite/dist/node/chunks/lib.js
+274. major project/client/node_modules/vite/dist/node/chunks/logger.js
+275. major project/client/node_modules/vite/dist/node/chunks/moduleRunnerTransport.d.ts
+276. major project/client/node_modules/vite/dist/node/chunks/node.js
+277. major project/client/node_modules/vite/dist/node/chunks/postcss-import.js
+278. major project/client/node_modules/vite/dist/node/index.d.ts
+279. major project/client/node_modules/vite/dist/node/index.js
+280. major project/client/node_modules/vite/dist/node/internal.d.ts
+281. major project/client/node_modules/vite/dist/node/internal.js
+282. major project/client/node_modules/vite/dist/node/module-runner.d.ts
+283. major project/client/node_modules/vite/dist/node/module-runner.js
+284. major project/client/node_modules/vite/misc/false.js
+285. major project/client/node_modules/vite/misc/true.js
+286. major project/client/node_modules/vite/types/customEvent.d.ts
+287. major project/client/node_modules/vite/types/internal/cssPreprocessorOptions.d.ts
+288. major project/client/node_modules/vite/types/internal/esbuildOptions.d.ts
+289. major project/client/node_modules/vite/types/internal/lightningcssOptions.d.ts
+290. major project/client/node_modules/vite/types/internal/rollupTypeCompat.d.ts
+291. major project/client/node_modules/vite/types/internal/terserOptions.d.ts
+292. major project/client/node_modules/vite/types/hmrPayload.d.ts
+293. major project/client/node_modules/vite/types/hot.d.ts
+294. major project/client/node_modules/vite/types/importGlob.d.ts
+295. major project/client/node_modules/vite/types/importMeta.d.ts
+296. major project/client/node_modules/vite/types/import-meta.d.ts
+297. major project/client/node_modules/vite/types/metadata.d.ts
+298. major project/client/node_modules/vite/LICENSE.md
+299. major project/client/node_modules/vite/package.json
+300. major project/client/node_modules/vite/README.md
+301. major project/client/node_modules/which/CHANGELOG.md
+302. major project/client/node_modules/which/bin/node-which
+303. major project/client/node_modules/which/LICENSE
+304. major project/client/node_modules/which/package.json
+305. major project/client/node_modules/which/README.md
+306. major project/client/node_modules/which/which.js
+307. major project/client/node_modules/word-wrap/index.d.ts
+308. major project/client/node_modules/word-wrap/index.js
+309. major project/client/node_modules/word-wrap/LICENSE
+310. major project/client/node_modules/word-wrap/package.json
+311. major project/client/node_modules/word-wrap/README.md
+312. major project/client/node_modules/yallist/iterator.js
+313. major project/client/node_modules/yallist/LICENSE
+314. major project/client/node_modules/yallist/package.json
+315. major project/client/node_modules/yallist/README.md
+316. major project/client/node_modules/yallist/yallist.js
+317. major project/client/node_modules/yocto-queue/index.d.ts
+318. major project/client/node_modules/yocto-queue/index.js
+319. major project/client/node_modules/yocto-queue/license
+320. major project/client/node_modules/yocto-queue/package.json
+321. major project/client/node_modules/yocto-queue/readme.md
+322. major project/client/node_modules/zod/index.cjs
+323. major project/client/node_modules/zod/locales/index.cjs
+324. major project/client/node_modules/zod/locales/index.d.cts
+325. major project/client/node_modules/zod/locales/index.d.ts
+326. major project/client/node_modules/zod/locales/index.js
+327. major project/client/node_modules/zod/locales/package.json
+328. major project/client/node_modules/zod/mini/index.cjs
+329. major project/client/node_modules/zod/mini/index.d.cts
+330. major project/client/node_modules/zod/mini/index.d.ts
+331. major project/client/node_modules/zod/mini/index.js
+332. major project/client/node_modules/zod/mini/package.json
+333. major project/client/node_modules/zod/src/index.ts
+334. major project/client/node_modules/zod/src/locales/index.ts
+335. major project/client/node_modules/zod/src/mini/index.ts
+336. major project/client/node_modules/zod/src/v3/errors.ts
+337. major project/client/node_modules/zod/src/v3/benchmarks/datetime.ts
+338. major project/client/node_modules/zod/src/v3/benchmarks/discriminatedUnion.ts
+339. major project/client/node_modules/zod/src/v3/benchmarks/index.ts
+340. major project/client/node_modules/zod/src/v3/benchmarks/ipv4.ts
+341. major project/client/node_modules/zod/src/v3/benchmarks/object.ts
+342. major project/client/node_modules/zod/src/v3/benchmarks/primitives.ts
+343. major project/client/node_modules/zod/src/v3/benchmarks/realworld.ts
+344. major project/client/node_modules/zod/src/v3/benchmarks/string.ts
+345. major project/client/node_modules/zod/src/v3/benchmarks/union.ts
+346. major project/client/node_modules/zod/src/v3/helpers/enumUtil.ts
+347. major project/client/node_modules/zod/src/v3/helpers/errorUtil.ts
+348. major project/client/node_modules/zod/src/v3/helpers/parseUtil.ts
+349. major project/client/node_modules/zod/src/v3/helpers/partialUtil.ts
+350. major project/client/node_modules/zod/src/v3/helpers/typeAliases.ts
+351. major project/client/node_modules/zod/src/v3/helpers/util.ts
+352. major project/client/node_modules/zod/src/v3/locales/en.ts
+353. major project/client/node_modules/zod/src/v3/tests/all-errors.test.ts
+354. major project/client/node_modules/zod/src/v3/tests/anyunknown.test.ts
+355. major project/client/node_modules/zod/src/v3/tests/array.test.ts
+356. major project/client/node_modules/zod/src/v3/tests/async-parsing.test.ts
+357. major project/client/node_modules/zod/src/v3/tests/async-refinements.test.ts
+358. major project/client/node_modules/zod/src/v3/tests/base.test.ts
+359. major project/client/node_modules/zod/src/v3/tests/bigint.test.ts
+360. major project/client/node_modules/zod/src/v3/tests/branded.test.ts
+361. major project/client/node_modules/zod/src/v3/tests/catch.test.ts
+362. major project/client/node_modules/zod/src/v3/tests/coerce.test.ts
+363. major project/client/node_modules/zod/src/v3/tests/complex.test.ts
+364. major project/client/node_modules/zod/src/v3/tests/custom.test.ts
+365. major project/client/node_modules/zod/src/v3/tests/date.test.ts
+366. major project/client/node_modules/zod/src/v3/tests/deepmasking.test.ts
+367. major project/client/node_modules/zod/src/v3/tests/default.test.ts
+368. major project/client/node_modules/zod/src/v3/tests/description.test.ts
+369. major project/client/node_modules/zod/src/v3/tests/discriminated-unions.test.ts
+370. major project/client/node_modules/zod/src/v3/tests/enum.test.ts
+371. major project/client/node_modules/zod/src/v3/tests/error.test.ts
+372. major project/client/node_modules/zod/src/v3/tests/firstparty.test.ts
+373. major project/client/node_modules/zod/src/v3/tests/firstpartyschematypes.test.ts
+374. major project/client/node_modules/zod/src/v3/tests/function.test.ts
+375. major project/client/node_modules/zod/src/v3/tests/generics.test.ts
+376. major project/client/node_modules/zod/src/v3/tests/instanceof.test.ts
+377. major project/client/node_modules/zod/src/v3/tests/intersection.test.ts
+378. major project/client/node_modules/zod/src/v3/tests/language-server.source.ts
+379. major project/client/node_modules/zod/src/v3/tests/language-server.test.ts
+380. major project/client/node_modules/zod/src/v3/tests/literal.test.ts
+381. major project/client/node_modules/zod/src/v3/tests/map.test.ts
+382. major project/client/node_modules/zod/src/v3/tests/masking.test.ts
+383. major project/client/node_modules/zod/src/v3/tests/mocker.test.ts
+384. major project/client/node_modules/zod/src/v3/tests/Mocker.ts
+385. major project/client/node_modules/zod/src/v3/tests/nan.test.ts
+386. major project/client/node_modules/zod/src/v3/tests/nativeEnum.test.ts
+387. major project/client/node_modules/zod/src/v3/tests/nullable.test.ts
+388. major project/client/node_modules/zod/src/v3/tests/number.test.ts
+389. major project/client/node_modules/zod/src/v3/tests/object.test.ts
+390. major project/client/node_modules/zod/src/v3/tests/object-augmentation.test.ts
+391. major project/client/node_modules/zod/src/v3/tests/object-in-es5-env.test.ts
+392. major project/client/node_modules/zod/src/v3/tests/optional.test.ts
+393. major project/client/node_modules/zod/src/v3/tests/parser.test.ts
+394. major project/client/node_modules/zod/src/v3/tests/parseUtil.test.ts
+395. major project/client/node_modules/zod/src/v3/tests/partials.test.ts
+396. major project/client/node_modules/zod/src/v3/tests/pickomit.test.ts
+397. major project/client/node_modules/zod/src/v3/tests/pipeline.test.ts
+398. major project/client/node_modules/zod/src/v3/tests/preprocess.test.ts
+399. major project/client/node_modules/zod/src/v3/tests/primitive.test.ts
+400. major project/client/node_modules/zod/src/v3/tests/promise.test.ts
+401. major project/client/node_modules/zod/src/v3/tests/readonly.test.ts
+402. major project/client/node_modules/zod/src/v3/tests/record.test.ts
+403. major project/client/node_modules/zod/src/v3/tests/recursive.test.ts
+404. major project/client/node_modules/zod/src/v3/tests/refine.test.ts
+405. major project/client/node_modules/zod/src/v3/tests/safeparse.test.ts
+406. major project/client/node_modules/zod/src/v3/tests/set.test.ts
+407. major project/client/node_modules/zod/src/v3/tests/standard-schema.test.ts
+408. major project/client/node_modules/zod/src/v3/tests/string.test.ts
+409. major project/client/node_modules/zod/src/v3/tests/transformer.test.ts
+410. major project/client/node_modules/zod/src/v3/tests/tuple.test.ts
+411. major project/client/node_modules/zod/src/v3/tests/unions.test.ts
+412. major project/client/node_modules/zod/src/v3/tests/validations.test.ts
+413. major project/client/node_modules/zod/src/v3/tests/void.test.ts
+414. major project/client/node_modules/zod/src/v3/external.ts
+415. major project/client/node_modules/zod/src/v3/index.ts
+416. major project/client/node_modules/zod/src/v3/standard-schema.ts
+417. major project/client/node_modules/zod/src/v3/types.ts
+418. major project/client/node_modules/zod/src/v3/ZodError.ts
+419. major project/client/node_modules/zod/src/v4/index.ts
+420. major project/client/node_modules/zod/src/v4/classic/checks.ts
+421. major project/client/node_modules/zod/src/v4/classic/tests/anyunknown.test.ts
+422. major project/client/node_modules/zod/src/v4/classic/tests/apply.test.ts
+423. major project/client/node_modules/zod/src/v4/classic/tests/array.test.ts
+424. major project/client/node_modules/zod/src/v4/classic/tests/assignability.test.ts
+425. major project/client/node_modules/zod/src/v4/classic/tests/async-parsing.test.ts
+426. major project/client/node_modules/zod/src/v4/classic/tests/async-refinements.test.ts
+427. major project/client/node_modules/zod/src/v4/classic/tests/base.test.ts
+428. major project/client/node_modules/zod/src/v4/classic/tests/bigint.test.ts
+429. major project/client/node_modules/zod/src/v4/classic/tests/brand.test.ts
+430. major project/client/node_modules/zod/src/v4/classic/tests/catch.test.ts
+431. major project/client/node_modules/zod/src/v4/classic/tests/coalesce.test.ts
+432. major project/client/node_modules/zod/src/v4/classic/tests/codec.test.ts
+433. major project/client/node_modules/zod/src/v4/classic/tests/codec-examples.test.ts
+434. major project/client/node_modules/zod/src/v4/classic/tests/coerce.test.ts
+435. major project/client/node_modules/zod/src/v4/classic/tests/continuability.test.ts
+436. major project/client/node_modules/zod/src/v4/classic/tests/custom.test.ts
+437. major project/client/node_modules/zod/src/v4/classic/tests/date.test.ts
+438. major project/client/node_modules/zod/src/v4/classic/tests/datetime.test.ts
+439. major project/client/node_modules/zod/src/v4/classic/tests/default.test.ts
+440. major project/client/node_modules/zod/src/v4/classic/tests/describe-meta-checks.test.ts
+441. major project/client/node_modules/zod/src/v4/classic/tests/description.test.ts
+442. major project/client/node_modules/zod/src/v4/classic/tests/detached-methods.test.ts
+443. major project/client/node_modules/zod/src/v4/classic/tests/discriminated-unions.test.ts
+444. major project/client/node_modules/zod/src/v4/classic/tests/enum.test.ts
+445. major project/client/node_modules/zod/src/v4/classic/tests/error.test.ts
+446. major project/client/node_modules/zod/src/v4/classic/tests/error-utils.test.ts
+447. major project/client/node_modules/zod/src/v4/classic/tests/file.test.ts
+448. major project/client/node_modules/zod/src/v4/classic/tests/firstparty.test.ts
+449. major project/client/node_modules/zod/src/v4/classic/tests/fix-json-issue.test.ts
+450. major project/client/node_modules/zod/src/v4/classic/tests/from-json-schema.test.ts
+451. major project/client/node_modules/zod/src/v4/classic/tests/function.test.ts
+452. major project/client/node_modules/zod/src/v4/classic/tests/generics.test.ts
+453. major project/client/node_modules/zod/src/v4/classic/tests/global-config.test.ts
+454. major project/client/node_modules/zod/src/v4/classic/tests/hash.test.ts
+455. major project/client/node_modules/zod/src/v4/classic/tests/index.test.ts
+456. major project/client/node_modules/zod/src/v4/classic/tests/instanceof.test.ts
+457. major project/client/node_modules/zod/src/v4/classic/tests/intersection.test.ts
+458. major project/client/node_modules/zod/src/v4/classic/tests/jitless-allows-eval.test.ts
+459. major project/client/node_modules/zod/src/v4/classic/tests/json.test.ts
+460. major project/client/node_modules/zod/src/v4/classic/tests/lazy.test.ts
+461. major project/client/node_modules/zod/src/v4/classic/tests/literal.test.ts
+462. major project/client/node_modules/zod/src/v4/classic/tests/locales_ka.test.ts
+463. major project/client/node_modules/zod/src/v4/classic/tests/locales_ro.test.ts
+464. major project/client/node_modules/zod/src/v4/classic/tests/map.test.ts
+465. major project/client/node_modules/zod/src/v4/classic/tests/nan.test.ts
+466. major project/client/node_modules/zod/src/v4/classic/tests/nested-refine.test.ts
+467. major project/client/node_modules/zod/src/v4/classic/tests/nonoptional.test.ts
+468. major project/client/node_modules/zod/src/v4/classic/tests/nullable.test.ts
+469. major project/client/node_modules/zod/src/v4/classic/tests/number.test.ts
+470. major project/client/node_modules/zod/src/v4/classic/tests/object.test.ts
+471. major project/client/node_modules/zod/src/v4/classic/tests/optional.test.ts
+472. major project/client/node_modules/zod/src/v4/classic/tests/partial.test.ts
+473. major project/client/node_modules/zod/src/v4/classic/tests/pickomit.test.ts
+474. major project/client/node_modules/zod/src/v4/classic/tests/pipe.test.ts
+475. major project/client/node_modules/zod/src/v4/classic/tests/prefault.test.ts
+476. major project/client/node_modules/zod/src/v4/classic/tests/preprocess.test.ts
+477. major project/client/node_modules/zod/src/v4/classic/tests/preprocess-types.test.ts
+478. major project/client/node_modules/zod/src/v4/classic/tests/primitive.test.ts
+479. major project/client/node_modules/zod/src/v4/classic/tests/promise.test.ts
+480. major project/client/node_modules/zod/src/v4/classic/tests/prototypes.test.ts
+481. major project/client/node_modules/zod/src/v4/classic/tests/readonly.test.ts
+482. major project/client/node_modules/zod/src/v4/classic/tests/record.test.ts
+483. major project/client/node_modules/zod/src/v4/classic/tests/recursive-types.test.ts
+484. major project/client/node_modules/zod/src/v4/classic/tests/refine.test.ts
+485. major project/client/node_modules/zod/src/v4/classic/tests/registries.test.ts
+486. major project/client/node_modules/zod/src/v4/classic/tests/set.test.ts
+487. major project/client/node_modules/zod/src/v4/classic/tests/standard-schema.test.ts
+488. major project/client/node_modules/zod/src/v4/classic/tests/string.test.ts
+489. major project/client/node_modules/zod/src/v4/classic/tests/stringbool.test.ts
+490. major project/client/node_modules/zod/src/v4/classic/tests/string-formats.test.ts
+491. major project/client/node_modules/zod/src/v4/classic/tests/template-literal.test.ts
+492. major project/client/node_modules/zod/src/v4/classic/tests/to-json-schema.test.ts
+493. major project/client/node_modules/zod/src/v4/classic/tests/to-json-schema-methods.test.ts
+494. major project/client/node_modules/zod/src/v4/classic/tests/transform.test.ts
+495. major project/client/node_modules/zod/src/v4/classic/tests/tuple.test.ts
+496. major project/client/node_modules/zod/src/v4/classic/tests/union.test.ts
+497. major project/client/node_modules/zod/src/v4/classic/tests/url.test.ts
+498. major project/client/node_modules/zod/src/v4/classic/tests/validations.test.ts
+499. major project/client/node_modules/zod/src/v4/classic/tests/void.test.ts
+500. major project/client/node_modules/zod/src/v4/classic/coerce.ts
+501. major project/client/node_modules/zod/src/v4/classic/compat.ts
+502. major project/client/node_modules/zod/src/v4/classic/errors.ts
+503. major project/client/node_modules/zod/src/v4/classic/external.ts
+504. major project/client/node_modules/zod/src/v4/classic/from-json-schema.ts
+505. major project/client/node_modules/zod/src/v4/classic/index.ts
+506. major project/client/node_modules/zod/src/v4/classic/iso.ts
+507. major project/client/node_modules/zod/src/v4/classic/parse.ts
+508. major project/client/node_modules/zod/src/v4/classic/schemas.ts
+509. major project/client/node_modules/zod/src/v4/core/api.ts
+510. major project/client/node_modules/zod/src/v4/core/tests/extend.test.ts
+511. major project/client/node_modules/zod/src/v4/core/tests/locales/be.test.ts
+512. major project/client/node_modules/zod/src/v4/core/tests/locales/el.test.ts
+513. major project/client/node_modules/zod/src/v4/core/tests/locales/en.test.ts
+514. major project/client/node_modules/zod/src/v4/core/tests/locales/es.test.ts
+515. major project/client/node_modules/zod/src/v4/core/tests/locales/fr.test.ts
+516. major project/client/node_modules/zod/src/v4/core/tests/locales/he.test.ts
+517. major project/client/node_modules/zod/src/v4/core/tests/locales/hr.test.ts
+518. major project/client/node_modules/zod/src/v4/core/tests/locales/nl.test.ts
+519. major project/client/node_modules/zod/src/v4/core/tests/locales/ru.test.ts
+520. major project/client/node_modules/zod/src/v4/core/tests/locales/tr.test.ts
+521. major project/client/node_modules/zod/src/v4/core/tests/locales/uz.test.ts
+522. major project/client/node_modules/zod/src/v4/core/tests/index.test.ts
+523. major project/client/node_modules/zod/src/v4/core/tests/record-constructor.test.ts
+524. major project/client/node_modules/zod/src/v4/core/tests/recursive-tuples.test.ts
+525. major project/client/node_modules/zod/src/v4/core/checks.ts
+526. major project/client/node_modules/zod/src/v4/core/config.ts
+527. major project/client/node_modules/zod/src/v4/core/core.ts
+528. major project/client/node_modules/zod/src/v4/core/doc.ts
+529. major project/client/node_modules/zod/src/v4/core/errors.ts
+530. major project/client/node_modules/zod/src/v4/core/index.ts
+531. major project/client/node_modules/zod/src/v4/core/json-schema.ts
+532. major project/client/node_modules/zod/src/v4/core/json-schema-generator.ts
+533. major project/client/node_modules/zod/src/v4/core/json-schema-processors.ts
+534. major project/client/node_modules/zod/src/v4/core/parse.ts
+535. major project/client/node_modules/zod/src/v4/core/regexes.ts
+536. major project/client/node_modules/zod/src/v4/core/registries.ts
+537. major project/client/node_modules/zod/src/v4/core/schemas.ts
+538. major project/client/node_modules/zod/src/v4/core/standard-schema.ts
+539. major project/client/node_modules/zod/src/v4/core/to-json-schema.ts
+540. major project/client/node_modules/zod/src/v4/core/util.ts
+541. major project/client/node_modules/zod/src/v4/core/versions.ts
+542. major project/client/node_modules/zod/src/v4/core/zsf.ts
+543. major project/client/node_modules/zod/src/v4/locales/ar.ts
+544. major project/client/node_modules/zod/src/v4/locales/az.ts
+545. major project/client/node_modules/zod/src/v4/locales/be.ts
+546. major project/client/node_modules/zod/src/v4/locales/bg.ts
+547. major project/client/node_modules/zod/src/v4/locales/ca.ts
+548. major project/client/node_modules/zod/src/v4/locales/cs.ts
+549. major project/client/node_modules/zod/src/v4/locales/da.ts
+550. major project/client/node_modules/zod/src/v4/locales/de.ts
+551. major project/client/node_modules/zod/src/v4/locales/el.ts
+552. major project/client/node_modules/zod/src/v4/locales/en.ts
+553. major project/client/node_modules/zod/src/v4/locales/eo.ts
+554. major project/client/node_modules/zod/src/v4/locales/es.ts
+555. major project/client/node_modules/zod/src/v4/locales/fa.ts
+556. major project/client/node_modules/zod/src/v4/locales/fi.ts
+557. major project/client/node_modules/zod/src/v4/locales/fr.ts
+558. major project/client/node_modules/zod/src/v4/locales/fr-CA.ts
+559. major project/client/node_modules/zod/src/v4/locales/he.ts
+560. major project/client/node_modules/zod/src/v4/locales/hr.ts
+561. major project/client/node_modules/zod/src/v4/locales/hu.ts
+562. major project/client/node_modules/zod/src/v4/locales/hy.ts
+563. major project/client/node_modules/zod/src/v4/locales/id.ts
+564. major project/client/node_modules/zod/src/v4/locales/index.ts
+565. major project/client/node_modules/zod/src/v4/locales/is.ts
+566. major project/client/node_modules/zod/src/v4/locales/it.ts
+567. major project/client/node_modules/zod/src/v4/locales/ja.ts
+568. major project/client/node_modules/zod/src/v4/locales/ka.ts
+569. major project/client/node_modules/zod/src/v4/locales/kh.ts
+570. major project/client/node_modules/zod/src/v4/locales/km.ts
+571. major project/client/node_modules/zod/src/v4/locales/ko.ts
+572. major project/client/node_modules/zod/src/v4/locales/lt.ts
+573. major project/client/node_modules/zod/src/v4/locales/mk.ts
+574. major project/client/node_modules/zod/src/v4/locales/ms.ts
+575. major project/client/node_modules/zod/src/v4/locales/nl.ts
+576. major project/client/node_modules/zod/src/v4/locales/no.ts
+577. major project/client/node_modules/zod/src/v4/locales/ota.ts
+578. major project/client/node_modules/zod/src/v4/locales/pl.ts
+579. major project/client/node_modules/zod/src/v4/locales/ps.ts
+580. major project/client/node_modules/zod/src/v4/locales/pt.ts
+581. major project/client/node_modules/zod/src/v4/locales/ro.ts
+582. major project/client/node_modules/zod/src/v4/locales/ru.ts
+583. major project/client/node_modules/zod/src/v4/locales/sl.ts
+584. major project/client/node_modules/zod/src/v4/locales/sv.ts
+585. major project/client/node_modules/zod/src/v4/locales/ta.ts
+586. major project/client/node_modules/zod/src/v4/locales/th.ts
+587. major project/client/node_modules/zod/src/v4/locales/tr.ts
+588. major project/client/node_modules/zod/src/v4/locales/ua.ts
+589. major project/client/node_modules/zod/src/v4/locales/uk.ts
+590. major project/client/node_modules/zod/src/v4/locales/ur.ts
+591. major project/client/node_modules/zod/src/v4/locales/uz.ts
+592. major project/client/node_modules/zod/src/v4/locales/vi.ts
+593. major project/client/node_modules/zod/src/v4/locales/yo.ts
+594. major project/client/node_modules/zod/src/v4/locales/zh-CN.ts
+595. major project/client/node_modules/zod/src/v4/locales/zh-TW.ts
+596. major project/client/node_modules/zod/src/v4/mini/checks.ts
+597. major project/client/node_modules/zod/src/v4/mini/tests/apply.test.ts
+598. major project/client/node_modules/zod/src/v4/mini/tests/assignability.test.ts
+599. major project/client/node_modules/zod/src/v4/mini/tests/brand.test.ts
+600. major project/client/node_modules/zod/src/v4/mini/tests/checks.test.ts
+601. major project/client/node_modules/zod/src/v4/mini/tests/codec.test.ts
+602. major project/client/node_modules/zod/src/v4/mini/tests/computed.test.ts
+603. major project/client/node_modules/zod/src/v4/mini/tests/error.test.ts
+604. major project/client/node_modules/zod/src/v4/mini/tests/functions.test.ts
+605. major project/client/node_modules/zod/src/v4/mini/tests/index.test.ts
+606. major project/client/node_modules/zod/src/v4/mini/tests/number.test.ts
+607. major project/client/node_modules/zod/src/v4/mini/tests/object.test.ts
+608. major project/client/node_modules/zod/src/v4/mini/tests/prototypes.test.ts
+609. major project/client/node_modules/zod/src/v4/mini/tests/recursive-types.test.ts
+610. major project/client/node_modules/zod/src/v4/mini/tests/standard-schema.test.ts
+611. major project/client/node_modules/zod/src/v4/mini/tests/string.test.ts
+612. major project/client/node_modules/zod/src/v4/mini/coerce.ts
+613. major project/client/node_modules/zod/src/v4/mini/external.ts
+614. major project/client/node_modules/zod/src/v4/mini/index.ts
+615. major project/client/node_modules/zod/src/v4/mini/iso.ts
+616. major project/client/node_modules/zod/src/v4/mini/parse.ts
+617. major project/client/node_modules/zod/src/v4/mini/schemas.ts
+618. major project/client/node_modules/zod/src/v4-mini/index.ts
+619. major project/client/node_modules/zod/v3/errors.cjs
+620. major project/client/node_modules/zod/v3/helpers/enumUtil.cjs
+621. major project/client/node_modules/zod/v3/helpers/enumUtil.d.cts
+622. major project/client/node_modules/zod/v3/helpers/enumUtil.d.ts
+623. major project/client/node_modules/zod/v3/helpers/enumUtil.js
+624. major project/client/node_modules/zod/v3/helpers/errorUtil.cjs
+625. major project/client/node_modules/zod/v3/helpers/errorUtil.d.cts
+626. major project/client/node_modules/zod/v3/helpers/errorUtil.d.ts
+627. major project/client/node_modules/zod/v3/helpers/errorUtil.js
+628. major project/client/node_modules/zod/v3/helpers/parseUtil.cjs
+629. major project/client/node_modules/zod/v3/helpers/parseUtil.d.cts
+630. major project/client/node_modules/zod/v3/helpers/parseUtil.d.ts
+631. major project/client/node_modules/zod/v3/helpers/parseUtil.js
+632. major project/client/node_modules/zod/v3/helpers/partialUtil.cjs
+633. major project/client/node_modules/zod/v3/helpers/partialUtil.d.cts
+634. major project/client/node_modules/zod/v3/helpers/partialUtil.d.ts
+635. major project/client/node_modules/zod/v3/helpers/partialUtil.js
+636. major project/client/node_modules/zod/v3/helpers/typeAliases.cjs
+637. major project/client/node_modules/zod/v3/helpers/typeAliases.d.cts
+638. major project/client/node_modules/zod/v3/helpers/typeAliases.d.ts
+639. major project/client/node_modules/zod/v3/helpers/typeAliases.js
+640. major project/client/node_modules/zod/v3/helpers/util.cjs
+641. major project/client/node_modules/zod/v3/helpers/util.d.cts
+642. major project/client/node_modules/zod/v3/helpers/util.d.ts
+643. major project/client/node_modules/zod/v3/helpers/util.js
+644. major project/client/node_modules/zod/v3/locales/en.cjs
+645. major project/client/node_modules/zod/v3/locales/en.d.cts
+646. major project/client/node_modules/zod/v3/locales/en.d.ts
+647. major project/client/node_modules/zod/v3/locales/en.js
+648. major project/client/node_modules/zod/v3/errors.d.cts
+649. major project/client/node_modules/zod/v3/errors.d.ts
+650. major project/client/node_modules/zod/v3/errors.js
+651. major project/client/node_modules/zod/v3/external.cjs
+652. major project/client/node_modules/zod/v3/external.d.cts
+653. major project/client/node_modules/zod/v3/external.d.ts
+654. major project/client/node_modules/zod/v3/external.js
+655. major project/client/node_modules/zod/v3/index.cjs
+656. major project/client/node_modules/zod/v3/index.d.cts
+657. major project/client/node_modules/zod/v3/index.d.ts
+658. major project/client/node_modules/zod/v3/index.js
+659. major project/client/node_modules/zod/v3/package.json
+660. major project/client/node_modules/zod/v3/standard-schema.cjs
+661. major project/client/node_modules/zod/v3/standard-schema.d.cts
+662. major project/client/node_modules/zod/v3/standard-schema.d.ts
+663. major project/client/node_modules/zod/v3/standard-schema.js
+664. major project/client/node_modules/zod/v3/types.cjs
+665. major project/client/node_modules/zod/v3/types.d.cts
+666. major project/client/node_modules/zod/v3/types.d.ts
+667. major project/client/node_modules/zod/v3/types.js
+668. major project/client/node_modules/zod/v3/ZodError.cjs
+669. major project/client/node_modules/zod/v3/ZodError.d.cts
+670. major project/client/node_modules/zod/v3/ZodError.d.ts
+671. major project/client/node_modules/zod/v3/ZodError.js
+672. major project/client/node_modules/zod/v4/index.cjs
+673. major project/client/node_modules/zod/v4/classic/checks.cjs
+674. major project/client/node_modules/zod/v4/classic/checks.d.cts
+675. major project/client/node_modules/zod/v4/classic/checks.d.ts
+676. major project/client/node_modules/zod/v4/classic/checks.js
+677. major project/client/node_modules/zod/v4/classic/coerce.cjs
+678. major project/client/node_modules/zod/v4/classic/coerce.d.cts
+679. major project/client/node_modules/zod/v4/classic/coerce.d.ts
+680. major project/client/node_modules/zod/v4/classic/coerce.js
+681. major project/client/node_modules/zod/v4/classic/compat.cjs
+682. major project/client/node_modules/zod/v4/classic/compat.d.cts
+683. major project/client/node_modules/zod/v4/classic/compat.d.ts
+684. major project/client/node_modules/zod/v4/classic/compat.js
+685. major project/client/node_modules/zod/v4/classic/errors.cjs
+686. major project/client/node_modules/zod/v4/classic/errors.d.cts
+687. major project/client/node_modules/zod/v4/classic/errors.d.ts
+688. major project/client/node_modules/zod/v4/classic/errors.js
+689. major project/client/node_modules/zod/v4/classic/external.cjs
+690. major project/client/node_modules/zod/v4/classic/external.d.cts
+691. major project/client/node_modules/zod/v4/classic/external.d.ts
+692. major project/client/node_modules/zod/v4/classic/external.js
+693. major project/client/node_modules/zod/v4/classic/from-json-schema.cjs
+694. major project/client/node_modules/zod/v4/classic/from-json-schema.d.cts
+695. major project/client/node_modules/zod/v4/classic/from-json-schema.d.ts
+696. major project/client/node_modules/zod/v4/classic/from-json-schema.js
+697. major project/client/node_modules/zod/v4/classic/index.cjs
+698. major project/client/node_modules/zod/v4/classic/index.d.cts
+699. major project/client/node_modules/zod/v4/classic/index.d.ts
+700. major project/client/node_modules/zod/v4/classic/index.js
+701. major project/client/node_modules/zod/v4/classic/iso.cjs
+702. major project/client/node_modules/zod/v4/classic/iso.d.cts
+703. major project/client/node_modules/zod/v4/classic/iso.d.ts
+704. major project/client/node_modules/zod/v4/classic/iso.js
+705. major project/client/node_modules/zod/v4/classic/package.json
+706. major project/client/node_modules/zod/v4/classic/parse.cjs
+707. major project/client/node_modules/zod/v4/classic/parse.d.cts
+708. major project/client/node_modules/zod/v4/classic/parse.d.ts
+709. major project/client/node_modules/zod/v4/classic/parse.js
+710. major project/client/node_modules/zod/v4/classic/schemas.cjs
+711. major project/client/node_modules/zod/v4/classic/schemas.d.cts
+712. major project/client/node_modules/zod/v4/classic/schemas.d.ts
+713. major project/client/node_modules/zod/v4/classic/schemas.js
+714. major project/client/node_modules/zod/v4/core/api.cjs
+715. major project/client/node_modules/zod/v4/core/api.d.cts
+716. major project/client/node_modules/zod/v4/core/api.d.ts
+717. major project/client/node_modules/zod/v4/core/api.js
+718. major project/client/node_modules/zod/v4/core/checks.cjs
+719. major project/client/node_modules/zod/v4/core/checks.d.cts
+720. major project/client/node_modules/zod/v4/core/checks.d.ts
+721. major project/client/node_modules/zod/v4/core/checks.js
+722. major project/client/node_modules/zod/v4/core/core.cjs
+723. major project/client/node_modules/zod/v4/core/core.d.cts
+724. major project/client/node_modules/zod/v4/core/core.d.ts
+725. major project/client/node_modules/zod/v4/core/core.js
+726. major project/client/node_modules/zod/v4/core/doc.cjs
+727. major project/client/node_modules/zod/v4/core/doc.d.cts
+728. major project/client/node_modules/zod/v4/core/doc.d.ts
+729. major project/client/node_modules/zod/v4/core/doc.js
+730. major project/client/node_modules/zod/v4/core/errors.cjs
+731. major project/client/node_modules/zod/v4/core/errors.d.cts
+732. major project/client/node_modules/zod/v4/core/errors.d.ts
+733. major project/client/node_modules/zod/v4/core/errors.js
+734. major project/client/node_modules/zod/v4/core/index.cjs
+735. major project/client/node_modules/zod/v4/core/index.d.cts
+736. major project/client/node_modules/zod/v4/core/index.d.ts
+737. major project/client/node_modules/zod/v4/core/index.js
+738. major project/client/node_modules/zod/v4/core/json-schema.cjs
+739. major project/client/node_modules/zod/v4/core/json-schema.d.cts
+740. major project/client/node_modules/zod/v4/core/json-schema.d.ts
+741. major project/client/node_modules/zod/v4/core/json-schema.js
+742. major project/client/node_modules/zod/v4/core/json-schema-generator.cjs
+743. major project/client/node_modules/zod/v4/core/json-schema-generator.d.cts
+744. major project/client/node_modules/zod/v4/core/json-schema-generator.d.ts
+745. major project/client/node_modules/zod/v4/core/json-schema-generator.js
+746. major project/client/node_modules/zod/v4/core/json-schema-processors.cjs
+747. major project/client/node_modules/zod/v4/core/json-schema-processors.d.cts
+748. major project/client/node_modules/zod/v4/core/json-schema-processors.d.ts
+749. major project/client/node_modules/zod/v4/core/json-schema-processors.js
+750. major project/client/node_modules/zod/v4/core/package.json
+751. major project/client/node_modules/zod/v4/core/parse.cjs
+752. major project/client/node_modules/zod/v4/core/parse.d.cts
+753. major project/client/node_modules/zod/v4/core/parse.d.ts
+754. major project/client/node_modules/zod/v4/core/parse.js
+755. major project/client/node_modules/zod/v4/core/regexes.cjs
+756. major project/client/node_modules/zod/v4/core/regexes.d.cts
+757. major project/client/node_modules/zod/v4/core/regexes.d.ts
+758. major project/client/node_modules/zod/v4/core/regexes.js
+759. major project/client/node_modules/zod/v4/core/registries.cjs
+760. major project/client/node_modules/zod/v4/core/registries.d.cts
+761. major project/client/node_modules/zod/v4/core/registries.d.ts
+762. major project/client/node_modules/zod/v4/core/registries.js
+763. major project/client/node_modules/zod/v4/core/schemas.cjs
+764. major project/client/node_modules/zod/v4/core/schemas.d.cts
+765. major project/client/node_modules/zod/v4/core/schemas.d.ts
+766. major project/client/node_modules/zod/v4/core/schemas.js
+767. major project/client/node_modules/zod/v4/core/standard-schema.cjs
+768. major project/client/node_modules/zod/v4/core/standard-schema.d.cts
+769. major project/client/node_modules/zod/v4/core/standard-schema.d.ts
+770. major project/client/node_modules/zod/v4/core/standard-schema.js
+771. major project/client/node_modules/zod/v4/core/to-json-schema.cjs
+772. major project/client/node_modules/zod/v4/core/to-json-schema.d.cts
+773. major project/client/node_modules/zod/v4/core/to-json-schema.d.ts
+774. major project/client/node_modules/zod/v4/core/to-json-schema.js
+775. major project/client/node_modules/zod/v4/core/util.cjs
+776. major project/client/node_modules/zod/v4/core/util.d.cts
+777. major project/client/node_modules/zod/v4/core/util.d.ts
+778. major project/client/node_modules/zod/v4/core/util.js
+779. major project/client/node_modules/zod/v4/core/versions.cjs
+780. major project/client/node_modules/zod/v4/core/versions.d.cts
+781. major project/client/node_modules/zod/v4/core/versions.d.ts
+782. major project/client/node_modules/zod/v4/core/versions.js
+783. major project/client/node_modules/zod/v4/locales/ar.cjs
+784. major project/client/node_modules/zod/v4/locales/ar.d.cts
+785. major project/client/node_modules/zod/v4/locales/ar.d.ts
+786. major project/client/node_modules/zod/v4/locales/ar.js
+787. major project/client/node_modules/zod/v4/locales/az.cjs
+788. major project/client/node_modules/zod/v4/locales/az.d.cts
+789. major project/client/node_modules/zod/v4/locales/az.d.ts
+790. major project/client/node_modules/zod/v4/locales/az.js
+791. major project/client/node_modules/zod/v4/locales/be.cjs
+792. major project/client/node_modules/zod/v4/locales/be.d.cts
+793. major project/client/node_modules/zod/v4/locales/be.d.ts
+794. major project/client/node_modules/zod/v4/locales/be.js
+795. major project/client/node_modules/zod/v4/locales/bg.cjs
+796. major project/client/node_modules/zod/v4/locales/bg.d.cts
+797. major project/client/node_modules/zod/v4/locales/bg.d.ts
+798. major project/client/node_modules/zod/v4/locales/bg.js
+799. major project/client/node_modules/zod/v4/locales/ca.cjs
+800. major project/client/node_modules/zod/v4/locales/ca.d.cts
+801. major project/client/node_modules/zod/v4/locales/ca.d.ts
+802. major project/client/node_modules/zod/v4/locales/ca.js
+803. major project/client/node_modules/zod/v4/locales/cs.cjs
+804. major project/client/node_modules/zod/v4/locales/cs.d.cts
+805. major project/client/node_modules/zod/v4/locales/cs.d.ts
+806. major project/client/node_modules/zod/v4/locales/cs.js
+807. major project/client/node_modules/zod/v4/locales/da.cjs
+808. major project/client/node_modules/zod/v4/locales/da.d.cts
+809. major project/client/node_modules/zod/v4/locales/da.d.ts
+810. major project/client/node_modules/zod/v4/locales/da.js
+811. major project/client/node_modules/zod/v4/locales/de.cjs
+812. major project/client/node_modules/zod/v4/locales/de.d.cts
+813. major project/client/node_modules/zod/v4/locales/de.d.ts
+814. major project/client/node_modules/zod/v4/locales/de.js
+815. major project/client/node_modules/zod/v4/locales/el.cjs
+816. major project/client/node_modules/zod/v4/locales/el.d.cts
+817. major project/client/node_modules/zod/v4/locales/el.d.ts
+818. major project/client/node_modules/zod/v4/locales/el.js
+819. major project/client/node_modules/zod/v4/locales/en.cjs
+820. major project/client/node_modules/zod/v4/locales/en.d.cts
+821. major project/client/node_modules/zod/v4/locales/en.d.ts
+822. major project/client/node_modules/zod/v4/locales/en.js
+823. major project/client/node_modules/zod/v4/locales/eo.cjs
+824. major project/client/node_modules/zod/v4/locales/eo.d.cts
+825. major project/client/node_modules/zod/v4/locales/eo.d.ts
+826. major project/client/node_modules/zod/v4/locales/eo.js
+827. major project/client/node_modules/zod/v4/locales/es.cjs
+828. major project/client/node_modules/zod/v4/locales/es.d.cts
+829. major project/client/node_modules/zod/v4/locales/es.d.ts
+830. major project/client/node_modules/zod/v4/locales/es.js
+831. major project/client/node_modules/zod/v4/locales/fa.cjs
+832. major project/client/node_modules/zod/v4/locales/fa.d.cts
+833. major project/client/node_modules/zod/v4/locales/fa.d.ts
+834. major project/client/node_modules/zod/v4/locales/fa.js
+835. major project/client/node_modules/zod/v4/locales/fi.cjs
+836. major project/client/node_modules/zod/v4/locales/fi.d.cts
+837. major project/client/node_modules/zod/v4/locales/fi.d.ts
+838. major project/client/node_modules/zod/v4/locales/fi.js
+839. major project/client/node_modules/zod/v4/locales/fr.cjs
+840. major project/client/node_modules/zod/v4/locales/fr.d.cts
+841. major project/client/node_modules/zod/v4/locales/fr.d.ts
+842. major project/client/node_modules/zod/v4/locales/fr.js
+843. major project/client/node_modules/zod/v4/locales/fr-CA.cjs
+844. major project/client/node_modules/zod/v4/locales/fr-CA.d.cts
+845. major project/client/node_modules/zod/v4/locales/fr-CA.d.ts
+846. major project/client/node_modules/zod/v4/locales/fr-CA.js
+847. major project/client/node_modules/zod/v4/locales/he.cjs
+848. major project/client/node_modules/zod/v4/locales/he.d.cts
+849. major project/client/node_modules/zod/v4/locales/he.d.ts
+850. major project/client/node_modules/zod/v4/locales/he.js
+851. major project/client/node_modules/zod/v4/locales/hr.cjs
+852. major project/client/node_modules/zod/v4/locales/hr.d.cts
+853. major project/client/node_modules/zod/v4/locales/hr.d.ts
+854. major project/client/node_modules/zod/v4/locales/hr.js
+855. major project/client/node_modules/zod/v4/locales/hu.cjs
+856. major project/client/node_modules/zod/v4/locales/hu.d.cts
+857. major project/client/node_modules/zod/v4/locales/hu.d.ts
+858. major project/client/node_modules/zod/v4/locales/hu.js
+859. major project/client/node_modules/zod/v4/locales/hy.cjs
+860. major project/client/node_modules/zod/v4/locales/hy.d.cts
+861. major project/client/node_modules/zod/v4/locales/hy.d.ts
+862. major project/client/node_modules/zod/v4/locales/hy.js
+863. major project/client/node_modules/zod/v4/locales/id.cjs
+864. major project/client/node_modules/zod/v4/locales/id.d.cts
+865. major project/client/node_modules/zod/v4/locales/id.d.ts
+866. major project/client/node_modules/zod/v4/locales/id.js
+867. major project/client/node_modules/zod/v4/locales/index.cjs
+868. major project/client/node_modules/zod/v4/locales/index.d.cts
+869. major project/client/node_modules/zod/v4/locales/index.d.ts
+870. major project/client/node_modules/zod/v4/locales/index.js
+871. major project/client/node_modules/zod/v4/locales/is.cjs
+872. major project/client/node_modules/zod/v4/locales/is.d.cts
+873. major project/client/node_modules/zod/v4/locales/is.d.ts
+874. major project/client/node_modules/zod/v4/locales/is.js
+875. major project/client/node_modules/zod/v4/locales/it.cjs
+876. major project/client/node_modules/zod/v4/locales/it.d.cts
+877. major project/client/node_modules/zod/v4/locales/it.d.ts
+878. major project/client/node_modules/zod/v4/locales/it.js
+879. major project/client/node_modules/zod/v4/locales/ja.cjs
+880. major project/client/node_modules/zod/v4/locales/ja.d.cts
+881. major project/client/node_modules/zod/v4/locales/ja.d.ts
+882. major project/client/node_modules/zod/v4/locales/ja.js
+883. major project/client/node_modules/zod/v4/locales/ka.cjs
+884. major project/client/node_modules/zod/v4/locales/ka.d.cts
+885. major project/client/node_modules/zod/v4/locales/ka.d.ts
+886. major project/client/node_modules/zod/v4/locales/ka.js
+887. major project/client/node_modules/zod/v4/locales/kh.cjs
+888. major project/client/node_modules/zod/v4/locales/kh.d.cts
+889. major project/client/node_modules/zod/v4/locales/kh.d.ts
+890. major project/client/node_modules/zod/v4/locales/kh.js
+891. major project/client/node_modules/zod/v4/locales/km.cjs
+892. major project/client/node_modules/zod/v4/locales/km.d.cts
+893. major project/client/node_modules/zod/v4/locales/km.d.ts
+894. major project/client/node_modules/zod/v4/locales/km.js
+895. major project/client/node_modules/zod/v4/locales/ko.cjs
+896. major project/client/node_modules/zod/v4/locales/ko.d.cts
+897. major project/client/node_modules/zod/v4/locales/ko.d.ts
+898. major project/client/node_modules/zod/v4/locales/ko.js
+899. major project/client/node_modules/zod/v4/locales/lt.cjs
+900. major project/client/node_modules/zod/v4/locales/lt.d.cts
+901. major project/client/node_modules/zod/v4/locales/lt.d.ts
+902. major project/client/node_modules/zod/v4/locales/lt.js
+903. major project/client/node_modules/zod/v4/locales/mk.cjs
+904. major project/client/node_modules/zod/v4/locales/mk.d.cts
+905. major project/client/node_modules/zod/v4/locales/mk.d.ts
+906. major project/client/node_modules/zod/v4/locales/mk.js
+907. major project/client/node_modules/zod/v4/locales/ms.cjs
+908. major project/client/node_modules/zod/v4/locales/ms.d.cts
+909. major project/client/node_modules/zod/v4/locales/ms.d.ts
+910. major project/client/node_modules/zod/v4/locales/ms.js
+911. major project/client/node_modules/zod/v4/locales/nl.cjs
+912. major project/client/node_modules/zod/v4/locales/nl.d.cts
+913. major project/client/node_modules/zod/v4/locales/nl.d.ts
+914. major project/client/node_modules/zod/v4/locales/nl.js
+915. major project/client/node_modules/zod/v4/locales/no.cjs
+916. major project/client/node_modules/zod/v4/locales/no.d.cts
+917. major project/client/node_modules/zod/v4/locales/no.d.ts
+918. major project/client/node_modules/zod/v4/locales/no.js
+919. major project/client/node_modules/zod/v4/locales/ota.cjs
+920. major project/client/node_modules/zod/v4/locales/ota.d.cts
+921. major project/client/node_modules/zod/v4/locales/ota.d.ts
+922. major project/client/node_modules/zod/v4/locales/ota.js
+923. major project/client/node_modules/zod/v4/locales/package.json
+924. major project/client/node_modules/zod/v4/locales/pl.cjs
+925. major project/client/node_modules/zod/v4/locales/pl.d.cts
+926. major project/client/node_modules/zod/v4/locales/pl.d.ts
+927. major project/client/node_modules/zod/v4/locales/pl.js
+928. major project/client/node_modules/zod/v4/locales/ps.cjs
+929. major project/client/node_modules/zod/v4/locales/ps.d.cts
+930. major project/client/node_modules/zod/v4/locales/ps.d.ts
+931. major project/client/node_modules/zod/v4/locales/ps.js
+932. major project/client/node_modules/zod/v4/locales/pt.cjs
+933. major project/client/node_modules/zod/v4/locales/pt.d.cts
+934. major project/client/node_modules/zod/v4/locales/pt.d.ts
+935. major project/client/node_modules/zod/v4/locales/pt.js
+936. major project/client/node_modules/zod/v4/locales/ro.cjs
+937. major project/client/node_modules/zod/v4/locales/ro.d.cts
+938. major project/client/node_modules/zod/v4/locales/ro.d.ts
+939. major project/client/node_modules/zod/v4/locales/ro.js
+940. major project/client/node_modules/zod/v4/locales/ru.cjs
+941. major project/client/node_modules/zod/v4/locales/ru.d.cts
+942. major project/client/node_modules/zod/v4/locales/ru.d.ts
+943. major project/client/node_modules/zod/v4/locales/ru.js
+944. major project/client/node_modules/zod/v4/locales/sl.cjs
+945. major project/client/node_modules/zod/v4/locales/sl.d.cts
+946. major project/client/node_modules/zod/v4/locales/sl.d.ts
+947. major project/client/node_modules/zod/v4/locales/sl.js
+948. major project/client/node_modules/zod/v4/locales/sv.cjs
+949. major project/client/node_modules/zod/v4/locales/sv.d.cts
+950. major project/client/node_modules/zod/v4/locales/sv.d.ts
+951. major project/client/node_modules/zod/v4/locales/sv.js
+952. major project/client/node_modules/zod/v4/locales/ta.cjs
+953. major project/client/node_modules/zod/v4/locales/ta.d.cts
+954. major project/client/node_modules/zod/v4/locales/ta.d.ts
+955. major project/client/node_modules/zod/v4/locales/ta.js
+956. major project/client/node_modules/zod/v4/locales/th.cjs
+957. major project/client/node_modules/zod/v4/locales/th.d.cts
+958. major project/client/node_modules/zod/v4/locales/th.d.ts
+959. major project/client/node_modules/zod/v4/locales/th.js
+960. major project/client/node_modules/zod/v4/locales/tr.cjs
+961. major project/client/node_modules/zod/v4/locales/tr.d.cts
+962. major project/client/node_modules/zod/v4/locales/tr.d.ts
+963. major project/client/node_modules/zod/v4/locales/tr.js
+964. major project/client/node_modules/zod/v4/locales/ua.cjs
+965. major project/client/node_modules/zod/v4/locales/ua.d.cts
+966. major project/client/node_modules/zod/v4/locales/ua.d.ts
+967. major project/client/node_modules/zod/v4/locales/ua.js
+968. major project/client/node_modules/zod/v4/locales/uk.cjs
+969. major project/client/node_modules/zod/v4/locales/uk.d.cts
+970. major project/client/node_modules/zod/v4/locales/uk.d.ts
+971. major project/client/node_modules/zod/v4/locales/uk.js
+972. major project/client/node_modules/zod/v4/locales/ur.cjs
+973. major project/client/node_modules/zod/v4/locales/ur.d.cts
+974. major project/client/node_modules/zod/v4/locales/ur.d.ts
+975. major project/client/node_modules/zod/v4/locales/ur.js
+976. major project/client/node_modules/zod/v4/locales/uz.cjs
+977. major project/client/node_modules/zod/v4/locales/uz.d.cts
+978. major project/client/node_modules/zod/v4/locales/uz.d.ts
+979. major project/client/node_modules/zod/v4/locales/uz.js
+980. major project/client/node_modules/zod/v4/locales/vi.cjs
+981. major project/client/node_modules/zod/v4/locales/vi.d.cts
+982. major project/client/node_modules/zod/v4/locales/vi.d.ts
+983. major project/client/node_modules/zod/v4/locales/vi.js
+984. major project/client/node_modules/zod/v4/locales/yo.cjs
+985. major project/client/node_modules/zod/v4/locales/yo.d.cts
+986. major project/client/node_modules/zod/v4/locales/yo.d.ts
+987. major project/client/node_modules/zod/v4/locales/yo.js
+988. major project/client/node_modules/zod/v4/locales/zh-CN.cjs
+989. major project/client/node_modules/zod/v4/locales/zh-CN.d.cts
+990. major project/client/node_modules/zod/v4/locales/zh-CN.d.ts
+991. major project/client/node_modules/zod/v4/locales/zh-CN.js
+992. major project/client/node_modules/zod/v4/locales/zh-TW.cjs
+993. major project/client/node_modules/zod/v4/locales/zh-TW.d.cts
+994. major project/client/node_modules/zod/v4/locales/zh-TW.d.ts
+995. major project/client/node_modules/zod/v4/locales/zh-TW.js
+996. major project/client/node_modules/zod/v4/mini/checks.cjs
+997. major project/client/node_modules/zod/v4/mini/checks.d.cts
+998. major project/client/node_modules/zod/v4/mini/checks.d.ts
+999. major project/client/node_modules/zod/v4/mini/checks.js
+1000. major project/client/node_modules/zod/v4/mini/coerce.cjs
+1001. major project/client/node_modules/zod/v4/mini/coerce.d.cts
+1002. major project/client/node_modules/zod/v4/mini/coerce.d.ts
+1003. major project/client/node_modules/zod/v4/mini/coerce.js
+1004. major project/client/node_modules/zod/v4/mini/external.cjs
+1005. major project/client/node_modules/zod/v4/mini/external.d.cts
+1006. major project/client/node_modules/zod/v4/mini/external.d.ts
+1007. major project/client/node_modules/zod/v4/mini/external.js
+1008. major project/client/node_modules/zod/v4/mini/index.cjs
+1009. major project/client/node_modules/zod/v4/mini/index.d.cts
+1010. major project/client/node_modules/zod/v4/mini/index.d.ts
+1011. major project/client/node_modules/zod/v4/mini/index.js
+1012. major project/client/node_modules/zod/v4/mini/iso.cjs
+1013. major project/client/node_modules/zod/v4/mini/iso.d.cts
+1014. major project/client/node_modules/zod/v4/mini/iso.d.ts
+1015. major project/client/node_modules/zod/v4/mini/iso.js
+1016. major project/client/node_modules/zod/v4/mini/package.json
+1017. major project/client/node_modules/zod/v4/mini/parse.cjs
+1018. major project/client/node_modules/zod/v4/mini/parse.d.cts
+1019. major project/client/node_modules/zod/v4/mini/parse.d.ts
+1020. major project/client/node_modules/zod/v4/mini/parse.js
+1021. major project/client/node_modules/zod/v4/mini/schemas.cjs
+1022. major project/client/node_modules/zod/v4/mini/schemas.d.cts
+1023. major project/client/node_modules/zod/v4/mini/schemas.d.ts
+1024. major project/client/node_modules/zod/v4/mini/schemas.js
+1025. major project/client/node_modules/zod/v4/index.d.cts
+1026. major project/client/node_modules/zod/v4/index.d.ts
+1027. major project/client/node_modules/zod/v4/index.js
+1028. major project/client/node_modules/zod/v4/package.json
+1029. major project/client/node_modules/zod/v4-mini/index.cjs
+1030. major project/client/node_modules/zod/v4-mini/index.d.cts
+1031. major project/client/node_modules/zod/v4-mini/index.d.ts
+1032. major project/client/node_modules/zod/v4-mini/index.js
+1033. major project/client/node_modules/zod/v4-mini/package.json
+1034. major project/client/node_modules/zod/index.d.cts
+1035. major project/client/node_modules/zod/index.d.ts
+1036. major project/client/node_modules/zod/index.js
+1037. major project/client/node_modules/zod/LICENSE
+1038. major project/client/node_modules/zod/package.json
+1039. major project/client/node_modules/zod/README.md
+1040. major project/client/node_modules/zod-validation-error/LICENSE
+1041. major project/client/node_modules/zod-validation-error/v3/index.d.mts
+1042. major project/client/node_modules/zod-validation-error/v3/index.d.ts
+1043. major project/client/node_modules/zod-validation-error/v3/index.js
+1044. major project/client/node_modules/zod-validation-error/v3/index.js.map
+1045. major project/client/node_modules/zod-validation-error/v3/index.mjs
+1046. major project/client/node_modules/zod-validation-error/v3/index.mjs.map
+1047. major project/client/node_modules/zod-validation-error/v4/index.d.mts
+1048. major project/client/node_modules/zod-validation-error/v4/index.d.ts
+1049. major project/client/node_modules/zod-validation-error/v4/index.js
+1050. major project/client/node_modules/zod-validation-error/v4/index.js.map
+1051. major project/client/node_modules/zod-validation-error/v4/index.mjs
+1052. major project/client/node_modules/zod-validation-error/v4/index.mjs.map
+1053. major project/client/node_modules/zod-validation-error/package.json
+1054. major project/client/node_modules/zod-validation-error/README.md
+1055. major project/client/node_modules/zod-validation-error/README.v3.md
+1056. major project/client/public/favicon.svg
+1057. major project/client/public/icons.svg
+1058. major project/client/src/App.jsx
+1059. major project/client/src/assets/add_icon.svg
+1060. major project/client/src/assets/arrow.svg
+1061. major project/client/src/assets/assets.js
+1062. major project/client/src/assets/bin_icon.svg
+1063. major project/client/src/assets/blog_icon.png
+1064. major project/client/src/assets/blog_pic_1.png
+1065. major project/client/src/assets/blog_pic_10.png
+1066. major project/client/src/assets/blog_pic_2.png
+1067. major project/client/src/assets/blog_pic_3.png
+1068. major project/client/src/assets/blog_pic_4.png
+1069. major project/client/src/assets/blog_pic_5.png
+1070. major project/client/src/assets/blog_pic_6.png
+1071. major project/client/src/assets/blog_pic_7.png
+1072. major project/client/src/assets/blog_pic_8.png
+1073. major project/client/src/assets/blog_pic_9.png
+1074. major project/client/src/assets/comment_icon.svg
+1075. major project/client/src/assets/cross_icon.svg
+1076. major project/client/src/assets/dashboard_icon_1.svg
+1077. major project/client/src/assets/dashboard_icon_2.svg
+1078. major project/client/src/assets/dashboard_icon_3.svg
+1079. major project/client/src/assets/dashboard_icon_4.svg
+1080. major project/client/src/assets/email_icon.png
+1081. major project/client/src/assets/facebook_icon.svg
+1082. major project/client/src/assets/favicon.svg
+1083. major project/client/src/assets/googleplus_icon.svg
+1084. major project/client/src/assets/gradientBackground.png
+1085. major project/client/src/assets/hero.png
+1086. major project/client/src/assets/home_icon.svg
+1087. major project/client/src/assets/list_icon.svg
+1088. major project/client/src/assets/logo.svg
+1089. major project/client/src/assets/logo_light.svg
+1090. major project/client/src/assets/logo1.svg
+1091. major project/client/src/assets/react.svg
+1092. major project/client/src/assets/rich-text-css.txt
+1093. major project/client/src/assets/star_icon.svg
+1094. major project/client/src/assets/tick_icon.svg
+1095. major project/client/src/assets/twitter_icon.svg
+1096. major project/client/src/assets/upload_area.svg
+1097. major project/client/src/assets/user_icon.svg
+1098. major project/client/src/assets/vite.svg
+1099. major project/client/src/componants/BlogCard.jsx
+1100. major project/client/src/componants/admin/BlogTableItem.jsx
+1101. major project/client/src/componants/admin/CommentTableItem.jsx
+1102. major project/client/src/componants/admin/Login.jsx
+1103. major project/client/src/componants/admin/Sidebar.jsx
+1104. major project/client/src/componants/BlogList.jsx
+1105. major project/client/src/componants/Footer.jsx
+1106. major project/client/src/componants/Header.jsx
+1107. major project/client/src/componants/Loader.jsx
+1108. major project/client/src/componants/Navbar.jsx
+1109. major project/client/src/componants/Newsletter.jsx
+1110. major project/client/src/pages/Blog.jsx
+1111. major project/client/src/pages/admin/AddBlog.jsx
+1112. major project/client/src/pages/admin/Comments.jsx
+1113. major project/client/src/pages/admin/Dashboard.jsx
+1114. major project/client/src/pages/admin/Layout.jsx
+1115. major project/client/src/pages/admin/ListBlog.jsx
+1116. major project/client/src/pages/Home.jsx
+1117. major project/client/src/index.css
+1118. major project/client/src/main.jsx
+1119. major project/client/eslint.config.js
+1120. major project/client/index.html
+1121. major project/client/package.json
+1122. major project/client/package-lock.json
+1123. major project/client/README.md
+1124. major project/client/vite.config.js
+1125. quick_blog-main/.gitignore
+1126. quick_blog-main/client/eslint.config.js
+1127. quick_blog-main/client/public/favicon.svg
+1128. quick_blog-main/client/src/App.jsx
+1129. quick_blog-main/client/src/assets/add_icon.svg
+1130. quick_blog-main/client/src/assets/arrow.svg
+1131. quick_blog-main/client/src/assets/assets.js
+1132. quick_blog-main/client/src/assets/bin_icon.svg
+1133. quick_blog-main/client/src/assets/blog_icon.png
+1134. quick_blog-main/client/src/assets/blog_pic_1.png
+1135. quick_blog-main/client/src/assets/blog_pic_10.png
+1136. quick_blog-main/client/src/assets/blog_pic_2.png
+1137. quick_blog-main/client/src/assets/blog_pic_3.png
+1138. quick_blog-main/client/src/assets/blog_pic_4.png
+1139. quick_blog-main/client/src/assets/blog_pic_5.png
+1140. quick_blog-main/client/src/assets/blog_pic_6.png
+1141. quick_blog-main/client/src/assets/blog_pic_7.png
+1142. quick_blog-main/client/src/assets/blog_pic_8.png
+1143. quick_blog-main/client/src/assets/blog_pic_9.png
+1144. quick_blog-main/client/src/assets/comment_icon.svg
+1145. quick_blog-main/client/src/assets/cross_icon.svg
+1146. quick_blog-main/client/src/assets/dashboard_icon_1.svg
+1147. quick_blog-main/client/src/assets/dashboard_icon_2.svg
+1148. quick_blog-main/client/src/assets/dashboard_icon_3.svg
+1149. quick_blog-main/client/src/assets/dashboard_icon_4.svg
+1150. quick_blog-main/client/src/assets/email_icon.png
+1151. quick_blog-main/client/src/assets/facebook_icon.svg
+1152. quick_blog-main/client/src/assets/favicon.svg
+1153. quick_blog-main/client/src/assets/googleplus_icon.svg
+1154. quick_blog-main/client/src/assets/gradientBackground.png
+1155. quick_blog-main/client/src/assets/home_icon.svg
+1156. quick_blog-main/client/src/assets/list_icon.svg
+1157. quick_blog-main/client/src/assets/logo.svg
+1158. quick_blog-main/client/src/assets/logo_light.svg
+1159. quick_blog-main/client/src/assets/rich-text-css.txt
+1160. quick_blog-main/client/src/assets/star_icon.svg
+1161. quick_blog-main/client/src/assets/tick_icon.svg
+1162. quick_blog-main/client/src/assets/twitter_icon.svg
+1163. quick_blog-main/client/src/assets/upload_area.svg
+1164. quick_blog-main/client/src/assets/user_icon.svg
+1165. quick_blog-main/client/src/components/BlogCard.jsx
+1166. quick_blog-main/client/src/components/admin/BlogTableItem.jsx
+1167. quick_blog-main/client/src/components/admin/CommentTableItem.jsx
+1168. quick_blog-main/client/src/components/admin/Login.jsx
+1169. quick_blog-main/client/src/components/admin/Sidebar.jsx
+1170. quick_blog-main/client/src/components/BlogList.jsx
+1171. quick_blog-main/client/src/components/Footer.jsx
+1172. quick_blog-main/client/src/components/Header.jsx
+1173. quick_blog-main/client/src/components/Loader.jsx
+1174. quick_blog-main/client/src/components/Navbar.jsx
+1175. quick_blog-main/client/src/components/Newsletter.jsx
+1176. quick_blog-main/client/src/context/AppContext.jsx
+1177. quick_blog-main/client/src/pages/Blog.jsx
+1178. quick_blog-main/client/src/pages/admin/AddBlog.jsx
+1179. quick_blog-main/client/src/pages/admin/Comments.jsx
+1180. quick_blog-main/client/src/pages/admin/Dashboard.jsx
+1181. quick_blog-main/client/src/pages/admin/Layout.jsx
+1182. quick_blog-main/client/src/pages/admin/ListBlog.jsx
+1183. quick_blog-main/client/src/pages/Home.jsx
+1184. quick_blog-main/client/src/index.css
+1185. quick_blog-main/client/src/main.jsx
+1186. quick_blog-main/client/index.html
+1187. quick_blog-main/client/package.json
+1188. quick_blog-main/client/package-lock.json
+1189. quick_blog-main/client/README.md
+1190. quick_blog-main/client/vercel.json
+1191. quick_blog-main/client/vite.config.js
+1192. quick_blog-main/server/package.json
+1193. quick_blog-main/server/configs/db.js
+1194. quick_blog-main/server/configs/gemini.js
+1195. quick_blog-main/server/configs/imageKit.js
+1196. quick_blog-main/server/controllers/adminController.js
+1197. quick_blog-main/server/controllers/blogController.js
+1198. quick_blog-main/server/middleware/auth.js
+1199. quick_blog-main/server/middleware/multer.js
+1200. quick_blog-main/server/models/Blog.js
+1201. quick_blog-main/server/models/Comment.js
+1202. quick_blog-main/server/routes/adminRoutes.js
+1203. quick_blog-main/server/routes/blogRoutes.js
+1204. quick_blog-main/server/package-lock.json
+1205. quick_blog-main/server/server.js
+1206. quick_blog-main/server/vercel.json
+1207. quick_blog-main/README.md
+1208. QuickBlog-Assets/add_icon.svg
+1209. QuickBlog-Assets/QuickBlog-Assets/add_icon.svg
+1210. QuickBlog-Assets/QuickBlog-Assets/arrow.svg
+1211. QuickBlog-Assets/QuickBlog-Assets/assets.js
+1212. QuickBlog-Assets/QuickBlog-Assets/bin_icon.svg
+1213. QuickBlog-Assets/QuickBlog-Assets/blog_icon.png
+1214. QuickBlog-Assets/QuickBlog-Assets/blog_pic_1.png
+1215. QuickBlog-Assets/QuickBlog-Assets/blog_pic_10.png
+1216. QuickBlog-Assets/QuickBlog-Assets/blog_pic_2.png
+1217. QuickBlog-Assets/QuickBlog-Assets/blog_pic_3.png
+1218. QuickBlog-Assets/QuickBlog-Assets/blog_pic_4.png
+1219. QuickBlog-Assets/QuickBlog-Assets/blog_pic_5.png
+1220. QuickBlog-Assets/QuickBlog-Assets/blog_pic_6.png
+1221. QuickBlog-Assets/QuickBlog-Assets/blog_pic_7.png
+1222. QuickBlog-Assets/QuickBlog-Assets/blog_pic_8.png
+1223. QuickBlog-Assets/QuickBlog-Assets/blog_pic_9.png
+1224. QuickBlog-Assets/QuickBlog-Assets/comment_icon.svg
+1225. QuickBlog-Assets/QuickBlog-Assets/cross_icon.svg
+1226. QuickBlog-Assets/QuickBlog-Assets/dashboard_icon_1.svg
+1227. QuickBlog-Assets/QuickBlog-Assets/dashboard_icon_2.svg
+1228. QuickBlog-Assets/QuickBlog-Assets/dashboard_icon_3.svg
+1229. QuickBlog-Assets/QuickBlog-Assets/dashboard_icon_4.svg
+1230. QuickBlog-Assets/QuickBlog-Assets/email_icon.png
+1231. QuickBlog-Assets/QuickBlog-Assets/facebook_icon.svg
+1232. QuickBlog-Assets/QuickBlog-Assets/favicon.svg
+1233. QuickBlog-Assets/QuickBlog-Assets/googleplus_icon.svg
+1234. QuickBlog-Assets/QuickBlog-Assets/gradientBackground.png
+1235. QuickBlog-Assets/QuickBlog-Assets/home_icon.svg
+1236. QuickBlog-Assets/QuickBlog-Assets/list_icon.svg
+1237. QuickBlog-Assets/QuickBlog-Assets/logo.svg
+1238. QuickBlog-Assets/QuickBlog-Assets/logo_light.svg
+1239. QuickBlog-Assets/QuickBlog-Assets/rich-text-css.txt
+1240. QuickBlog-Assets/QuickBlog-Assets/star_icon.svg
+1241. QuickBlog-Assets/QuickBlog-Assets/tick_icon.svg
+1242. QuickBlog-Assets/QuickBlog-Assets/twitter_icon.svg
+1243. QuickBlog-Assets/QuickBlog-Assets/upload_area.svg
+1244. QuickBlog-Assets/QuickBlog-Assets/user_icon.svg
+1245. QuickBlog-Assets/arrow.svg
+1246. QuickBlog-Assets/assets.js
+1247. QuickBlog-Assets/bin_icon.svg
+1248. QuickBlog-Assets/blog_icon.png
+1249. QuickBlog-Assets/blog_pic_1.png
+1250. QuickBlog-Assets/blog_pic_10.png
+1251. QuickBlog-Assets/blog_pic_2.png
+1252. QuickBlog-Assets/blog_pic_3.png
+1253. QuickBlog-Assets/blog_pic_4.png
+1254. QuickBlog-Assets/blog_pic_5.png
+1255. QuickBlog-Assets/blog_pic_6.png
+1256. QuickBlog-Assets/blog_pic_7.png
+1257. QuickBlog-Assets/blog_pic_8.png
+1258. QuickBlog-Assets/blog_pic_9.png
+1259. QuickBlog-Assets/comment_icon.svg
+1260. QuickBlog-Assets/cross_icon.svg
+1261. QuickBlog-Assets/dashboard_icon_1.svg
+1262. QuickBlog-Assets/dashboard_icon_2.svg
+1263. QuickBlog-Assets/dashboard_icon_3.svg
+1264. QuickBlog-Assets/dashboard_icon_4.svg
+1265. QuickBlog-Assets/email_icon.png
+1266. QuickBlog-Assets/facebook_icon.svg
+1267. QuickBlog-Assets/favicon.svg
+1268. QuickBlog-Assets/googleplus_icon.svg
+1269. QuickBlog-Assets/gradientBackground.png
+1270. QuickBlog-Assets/home_icon.svg
+1271. QuickBlog-Assets/list_icon.svg
+1272. QuickBlog-Assets/logo.svg
+1273. QuickBlog-Assets/logo_light.svg
+1274. QuickBlog-Assets/rich-text-css.txt
+1275. QuickBlog-Assets/star_icon.svg
+1276. QuickBlog-Assets/tick_icon.svg
+1277. QuickBlog-Assets/twitter_icon.svg
+1278. QuickBlog-Assets/upload_area.svg
+1279. QuickBlog-Assets/user_icon.svg
+1280. UGC/Computer Science and Applications_English Only.pdf
+1281. UGC/NTA UGC General Paper 2023.pdf
+1282. UGC/NTA UGC General Paper 2024.pdf
+1283. UGC/NTA UGC General Paper 2025.pdf
+1284. UGC/ugc.pdf

@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: "Outfit", sans-serif;
+  scroll-behavior: smooth;
+}
+
+:root{
+  --color-primary: #5044E5;
+}
+html,
+body {
+  overflow-x: hidden;
+  scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+body{
+  background-image:
+    linear-gradient(
+      rgba(255,255,255,0.82),
+      rgba(255,255,255,0.82)
+    ),
+    url("https://images.unsplash.com/photo-1635776062043-223faf322554?q=80&w=1032&auto=format&fit=crop&fit=crop");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+/* Animated Glow Background */
+body::before{
+  content: "";
+  position: fixed;
+  inset: 0;
+
+  background:
+    radial-gradient(circle at 20% 20%, rgba(255,166,0,.18), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(139,92,246,.18), transparent 40%),
+    radial-gradient(circle at 50% 50%, rgba(59,130,246,.12), transparent 50%);
+
+  pointer-events: none;
+  z-index: -1;
+
+  animation: moveBg 12s ease-in-out infinite alternate;
+}
+
+@keyframes moveBg{
+  from{
+    transform: translate(0,0) scale(1);
+  }
+  to{
+    transform: translate(40px,-30px) scale(1.08);
+  }
+}
+
+/* Hero Floating Animation */
+@keyframes float{
+  0%,100%{
+    transform: translateY(0px);
+  }
+  50%{
+    transform: translateY(-12px);
+  }
+}
+
+.animate-float{
+  animation: float 4s ease-in-out infinite;
+}
+
+/* Fade In Animation */
+@keyframes fadeIn{
+  from{
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade{
+  animation: fadeIn 1s ease forwards;
+}
+
+@theme{
+  --color-primary: #5044E5;
+}
+
+/* Rich Text */
+.rich-text{
+  font-size: 15px;
+}
+
+.rich-text p{
+  margin-bottom: 16px;
+  color: #292929;
+  line-height: 1.8;
+}
+
+.rich-text h1{
+  font-size: 36px;
+  font-weight: 700;
+  color: #252525 !important;
+  margin: 32px 0;
+}
+
+.rich-text h2{
+  font-size: 22px;
+  font-weight: 700;
+  color: #252525 !important;
+  margin: 24px 0;
+}
+
+.rich-text h3{
+  font-size: 18px;
+  font-weight: 600;
+  color: #333 !important;
+  margin: 20px 0;
+}
+
+.rich-text strong{
+  font-weight: 700;
+}
+
+.rich-text ul{
+  margin-left: 30px;
+  list-style-type: disc;
+}
+
+.rich-text ol{
+  margin-left: 30px;
+  list-style-type: decimal;
+}
+
+.rich-text li{
+  margin-bottom: 8px;
+}
+
+.rich-text a{
+  color: #5044E5;
+  text-decoration: underline;
+}
